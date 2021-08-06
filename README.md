@@ -1,4 +1,4 @@
-# vue-cli-service-es-lint-node_modules on an Ionic Vue app
+# ionic-vue-eslint-build-error
 
 ## Mininum system requirement
 - node v15.11.0
